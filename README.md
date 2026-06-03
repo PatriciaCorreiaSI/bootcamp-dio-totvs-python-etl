@@ -1,6 +1,12 @@
 # 🪙 Geração de Notícias Bancárias com IA
 ### Bootcamp DIO e Totvs | Explorando IA Generativa em um Pipeline de ETL com Python
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-0288D1?style=for-the-badge&logoColor=white)
+
 Este projeto demonstra a extração e transformação de dados de clientes bancários, seguida pela geração de notícias personalizadas usando a API do Google Gemini, e a atualização desses dados em um arquivo CSV.
 
 ## 👩‍💻 Funcionalidades
@@ -25,10 +31,10 @@ Este projeto demonstra a extração e transformação de dados de clientes banc�
 
 ## 🤖 Tecnologias Utilizadas
 
-*   **Python 3**
-*   **Pandas:** Para manipulação e análise de dados.
-*   **Google Generative AI (Gemini API):** Para a geração de conteúdo textual.
-*   **Google Colab:** Ambiente de desenvolvimento.
+*   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python 3**
+*   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) **Pandas:** Para manipulação e análise de dados.
+*   ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) **Google Generative AI (Gemini API):** Para a geração de conteúdo textual.
+*   ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) **Google Colab:** Ambiente de desenvolvimento.
 
 ## 📍 Observações
 
