@@ -31,10 +31,10 @@ Este projeto demonstra a extração e transformação de dados de clientes banc�
 
 ## 🤖 Tecnologias Utilizadas
 
-*   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python 3**
-*   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) **Pandas:** Para manipulação e análise de dados.
-*   ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white) **Google Generative AI (Gemini API):** Para a geração de conteúdo textual.
-*   ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white) **Google Colab:** Ambiente de desenvolvimento.
+* **Python 3**
+* **Pandas:** Para manipulação e análise de dados.
+* **Google Generative AI (Gemini API):** Para a geração de conteúdo textual.
+* **Google Colab:** Ambiente de desenvolvimento.
 
 ## 📍 Observações
 
